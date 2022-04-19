@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is E6B8-97C9
-
- Directory of C:\Users\user\Desktop\git hub
-
-19/04/2022  23:16    <DIR>          .
-19/04/2022  23:16    <DIR>          ..
-19/04/2022  22:45    <DIR>          mst
-19/04/2022  23:16                 0 test1.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  59,321,810,944 bytes free
+change 1 
